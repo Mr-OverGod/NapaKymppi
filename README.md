@@ -1,6 +1,6 @@
 # NapaKymppi on ebin ohjelma
 
-![Eebenennnennen](https://avatars0.githubusercontent.com/u/2488705?v=3&s=400)
+![Eebenennnennen](http://images.uncyc.org/commons/thumb/5/53/Coolhitler.gif/200px-Coolhitler.gif)
 
 | Ruokaohjeet | Tykkäskö ArskaMan |
 |:------------| -----------------:|
