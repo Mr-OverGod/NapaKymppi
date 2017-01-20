@@ -1,6 +1,6 @@
 # NapaKymppi on ebin ohjelma
 
-![Eebenennnennen](https://www.google.fi/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj1ib7eq9DRAhUEjSwKHaWMCAAQjRwIBw&url=https%3A%2F%2Fgithub.com%2Fsockeye44%2Finstavpn%2Fissues&psig=AFQjCNFT3lZIHDhoFwn5jHIXYJxG4AOk0Q&ust=1484988591969710)
+![Eebenennnennen](https://avatars0.githubusercontent.com/u/2488705?v=3&s=400)
 
 ## Alaotsikko
 
