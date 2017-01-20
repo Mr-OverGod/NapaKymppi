@@ -2,6 +2,12 @@
 
 ![Eebenennnennen](https://avatars0.githubusercontent.com/u/2488705?v=3&s=400)
 
+| Ruokaohjeet | Tykkäskö ArskaMan |
+|:------------| -----------------:|
+| Mämmi | Nope |
+| Nistipata | yuuuup |
+| Uppopaistettu ruusunnuppu | ?????|
+
 ## Alaotsikko
 
 Finally, between 1998 and 2000, there appeared Ian Kershaw’s much-lauded two-volume biography which, asserts Ullrich, attempted to demonstrate that “Hitler didn’t need to do very much at all since German society – everyone from the underlings surrounding him to ordinary people on the street – were increasingly inclined to anticipate and fulfil the Führer’s every wish, ‘working towards him’.”
