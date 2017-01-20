@@ -18,7 +18,7 @@ This, the first of two volumes, is sub-titled Ascent, and takes us to the outbre
 
 ###Alaotsikko
 
-[ArskaMan](https://fi.wikipedia.org/wiki/Adolf_Hitler)
+[ArskaMan](http://hiki.pedia.ws/wiki/Adolf_Hitler)
 
 ####Alaotsikko
 
